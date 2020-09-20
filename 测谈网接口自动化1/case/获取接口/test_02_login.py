@@ -1,10 +1,11 @@
-import pytest
-import requests
 import os,sys
 sys.path.append(os.getcwd())
+import pytest
+import requests
 import utils.exceltools as extool
 import utils.dbtools as  db
-import time
+import utils.decorate as de
+@de.outer
 def test_01_login_success():
     e_data = extool.read_excel("data/测谈网接口测试用例.xlsx", "登录")
     url = e_data[0][2]
@@ -15,6 +16,8 @@ def test_01_login_success():
     assert res.json()["status"] == 200#结果码
     sql = "select * from t_user where username = '{}'".format(body["username"])
     assert len(db.query(sql)) != 0#判断数据库
+    return res
+@de.outer  
 def test_02_login_fail_shortname():
     e_data = extool.read_excel("data/测谈网接口测试用例.xlsx", "登录")
     url = e_data[1][2]
@@ -24,6 +27,7 @@ def test_02_login_fail_shortname():
     assert res.status_code == 200#状态码
     assert res.json()["status"] == 401
     assert res.json()["msg"] == "账号长度必须大于等于5位，并且小于等于12位"#结果码
+    return res
 def test_03_login_fail_longname():
     e_data = extool.read_excel("data/测谈网接口测试用例.xlsx", "登录")
     url = e_data[2][2]
@@ -33,5 +37,5 @@ def test_03_login_fail_longname():
     assert res.status_code == 200#状态码
     assert res.json()["status"] == 401
     assert res.json()["msg"] == "账号长度必须大于等于5位，并且小于等于12位"#结果码
-
+    return res
     '''服务器无法重复三次以上访问同一接口'''
