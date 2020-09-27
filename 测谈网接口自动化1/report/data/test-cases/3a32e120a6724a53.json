@@ -1,0 +1,59 @@
+{
+  "uid" : "3a32e120a6724a53",
+  "name" : "test_06_getinspiredetail_fail_null",
+  "fullName" : "case.获取接口.test_11_getinspiredetail#test_06_getinspiredetail_fail_null",
+  "historyId" : "1169e64ea9e745390a0234dfd0bf6f11",
+  "time" : {
+    "start" : 1600603958459,
+    "stop" : 1600603958639,
+    "duration" : 180
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 200 == 401",
+  "statusTrace" : "def test_06_getinspiredetail_fail_null():\n        e_data = extool.read_excel(\"data/测谈网接口测试用例.xlsx\", \"获取灵感详情\")\n        url = e_data[5][2]\n        head = eval(e_data[5][5])\n        res = requests.get(url=url,headers=head)#head中规定使用json，因此用json而不是data\n>       assert res.json()[\"status\"] == 401#状态码\nE       assert 200 == 401\n\ncase\\获取接口\\test_11_getinspiredetail.py:58: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.获取接口"
+  }, {
+    "name" : "suite",
+    "value" : "test_11_getinspiredetail"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GUR25VOE"
+  }, {
+    "name" : "thread",
+    "value" : "7116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.获取接口.test_11_getinspiredetail"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3a32e120a6724a53.json",
+  "parameterValues" : [ ]
+}

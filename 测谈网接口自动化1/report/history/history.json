@@ -1,0 +1,1760 @@
+{
+  "5b6464caaad3c89a45dcfc2bd72e1d55" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9892ff9640ee131f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603935973,
+        "stop" : 1600603936984,
+        "duration" : 1011
+      }
+    } ]
+  },
+  "c7836c2ee9b6bca4e24d1061da44b79d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "459fd04b4eb648cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603956286,
+        "stop" : 1600603956503,
+        "duration" : 217
+      }
+    } ]
+  },
+  "7034bb9987ce20b2260f39df0f823b89" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "808dc898f823f165",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603951772,
+        "stop" : 1600603951987,
+        "duration" : 215
+      }
+    } ]
+  },
+  "d96d3fcf68c1bea4bad2b6ee6e605aa5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee17e9c1179beed3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '不能为空' == '请输入正整数'\n  - 请输入正整数\n  + 不能为空",
+      "time" : {
+        "start" : 1600603943117,
+        "stop" : 1600603943310,
+        "duration" : 193
+      }
+    } ]
+  },
+  "b958f4c45ae8017463246d10bb56dc29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9cd0d5aed02edfef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603928972,
+        "stop" : 1600603929152,
+        "duration" : 180
+      }
+    } ]
+  },
+  "d48458f206ffbf2a0b06aa3eebe7faae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3d2b11ec43eb808",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603959122,
+        "stop" : 1600603959306,
+        "duration" : 184
+      }
+    } ]
+  },
+  "51f3b4dec075cff4e66332fc5d5be212" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "233a8fe2fef07df0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603939191,
+        "stop" : 1600603939376,
+        "duration" : 185
+      }
+    } ]
+  },
+  "09218fb4ac0da3e8223031eeca376571" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57d669eed7eb8781",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603942070,
+        "stop" : 1600603942273,
+        "duration" : 203
+      }
+    } ]
+  },
+  "c56d31fb31f326121f8573596040c8da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3be9350871819250",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603930104,
+        "stop" : 1600603930298,
+        "duration" : 194
+      }
+    } ]
+  },
+  "1ad9b9662cedca2d47ed69bf06a6384e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9486a0cd1dd39530",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603935381,
+        "stop" : 1600603935756,
+        "duration" : 375
+      }
+    } ]
+  },
+  "4453bc24408c9d4d014453b2fdfba022" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2b0a967fb1d5a9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603956720,
+        "stop" : 1600603956914,
+        "duration" : 194
+      }
+    } ]
+  },
+  "9e478ba6c244b99b373be7865bcf178d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "703e486e7db2e84d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '不能为空' == '请输入正整数'\n  - 请输入正整数\n  + 不能为空",
+      "time" : {
+        "start" : 1600603954997,
+        "stop" : 1600603955223,
+        "duration" : 226
+      }
+    } ]
+  },
+  "4566c60f37651b5c9cd90fbe530ff719" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "664ab3b39316e7b0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '【1.4】应该是正整数才行！' == '请输入正整数'\n  - 请输入正整数\n  + 【1.4】应该是正整数才行！",
+      "time" : {
+        "start" : 1600603942501,
+        "stop" : 1600603942706,
+        "duration" : 205
+      }
+    } ]
+  },
+  "a8c19f94a8423bdf0e1c70e520c4c99f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb68036eb4cb813b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603938752,
+        "stop" : 1600603938976,
+        "duration" : 224
+      }
+    } ]
+  },
+  "1169e64ea9e745390a0234dfd0bf6f11" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a32e120a6724a53",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 200 == 401",
+      "time" : {
+        "start" : 1600603958459,
+        "stop" : 1600603958639,
+        "duration" : 180
+      }
+    } ]
+  },
+  "44994559e3fc0f1c4d21097ee6db1663" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6508ffca260db7a2",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0 != 0\n +  where 0 = len([])",
+      "time" : {
+        "start" : 1600603942293,
+        "stop" : 1600603942478,
+        "duration" : 185
+      }
+    } ]
+  },
+  "01ce997a728aa36c844673a93643a9ff" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4b92d16bce4cdbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603951994,
+        "stop" : 1600603952185,
+        "duration" : 191
+      }
+    } ]
+  },
+  "0ce8bf8dd6d37068fbcaa0676a4136ff" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c69e7ee13b6cdbf7",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 401 == 200",
+      "time" : {
+        "start" : 1600603939779,
+        "stop" : 1600603939974,
+        "duration" : 195
+      }
+    } ]
+  },
+  "f665665ab984c648c9bd8a0f583d6d6b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "25a55d6acc476af6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603938558,
+        "stop" : 1600603938746,
+        "duration" : 188
+      }
+    } ]
+  },
+  "9fc071b916ff1006cd6215b20909155a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e3b2769eabcae3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603941295,
+        "stop" : 1600603941480,
+        "duration" : 185
+      }
+    } ]
+  },
+  "4a0b84ddc354a3d7af7b3030743f6134" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e28fdfa9c29c4ddb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603928779,
+        "stop" : 1600603928965,
+        "duration" : 186
+      }
+    } ]
+  },
+  "f1a12fcc098d61c0f889193371322552" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30f460029ebcd15",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '不能为空' == '请输入正整数'\n  - 请输入正整数\n  + 不能为空",
+      "time" : {
+        "start" : 1600603955655,
+        "stop" : 1600603955852,
+        "duration" : 197
+      }
+    } ]
+  },
+  "2d517c4737942d02def0e64509655738" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52154323ebed6b0e",
+      "status" : "broken",
+      "statusDetails" : "IndexError: list index out of range",
+      "time" : {
+        "start" : 1600603941023,
+        "stop" : 1600603941069,
+        "duration" : 46
+      }
+    } ]
+  },
+  "f4f1207f557a428dbbd719cc82609969" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72035398d2ccc787",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '请先登录后再操作！' == '请输入正整数'\n  - 请输入正整数\n  + 请先登录后再操作！",
+      "time" : {
+        "start" : 1600603940822,
+        "stop" : 1600603941011,
+        "duration" : 189
+      }
+    } ]
+  },
+  "ae7b8cdb932712da7710b83f20a6d9c3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69fa6bd86a419399",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603928555,
+        "stop" : 1600603928763,
+        "duration" : 208
+      }
+    } ]
+  },
+  "94610e79bcc3dc8be13d10d8acff69ff" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "903ff8d28087b853",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '【1.4】应该是正整数才行！' == '请输入正整数'\n  - 请输入正整数\n  + 【1.4】应该是正整数才行！",
+      "time" : {
+        "start" : 1600603957589,
+        "stop" : 1600603957798,
+        "duration" : 209
+      }
+    } ]
+  },
+  "6203c0f3b57fceb856a68a8877693d91" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a22dfaa95d92b3d7",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '不能为空' == '请输入正整数'\n  - 请输入正整数\n  + 不能为空",
+      "time" : {
+        "start" : 1600603954781,
+        "stop" : 1600603954959,
+        "duration" : 178
+      }
+    } ]
+  },
+  "03a01af840fc1888b8e04fe2760c7644" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "282b709cafc3904f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 200 == 401",
+      "time" : {
+        "start" : 1600603943332,
+        "stop" : 1600603943541,
+        "duration" : 209
+      }
+    } ]
+  },
+  "c74b11cd290cc799214c374472b49df1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2359c4ac46388938",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603926922,
+        "stop" : 1600603927326,
+        "duration" : 404
+      }
+    } ]
+  },
+  "a2a6b2ac78cd49683b0270a9c42b7e4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "82adb680580099cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603930661,
+        "stop" : 1600603930842,
+        "duration" : 181
+      }
+    } ]
+  },
+  "38b2af759add9d5932a788d133737fdf" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ce4867601174618",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '不能为空' == '请输入正整数'\n  - 请输入正整数\n  + 不能为空",
+      "time" : {
+        "start" : 1600603958233,
+        "stop" : 1600603958433,
+        "duration" : 200
+      }
+    } ]
+  },
+  "85991ecb84a2e6deade77ba622d8a7fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10ad6ac325979694",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603937001,
+        "stop" : 1600603937369,
+        "duration" : 368
+      }
+    } ]
+  },
+  "285adf14cf549f796438a8dac52dc83c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6f7d7b0f1f1efed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603959683,
+        "stop" : 1600603959896,
+        "duration" : 213
+      }
+    } ]
+  },
+  "f93f253844afd7aa829b8840b1ab10b6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23e364bcea578a78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603928337,
+        "stop" : 1600603928549,
+        "duration" : 212
+      }
+    } ]
+  },
+  "f5e0b69277e87f93d1e0682b8e8bcb9c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0656e951dd6683b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '不能为空' == '请输入正整数'\n  - 请输入正整数\n  + 不能为空",
+      "time" : {
+        "start" : 1600603955241,
+        "stop" : 1600603955415,
+        "duration" : 174
+      }
+    } ]
+  },
+  "dd08ee2838a973433c2ca3c4bfbc7897" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e233cb76f09b0b46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603943622,
+        "stop" : 1600603946427,
+        "duration" : 2805
+      }
+    } ]
+  },
+  "c446170ad4206bcce86e8f0afc25644e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aaea443e2c8e6f3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603927342,
+        "stop" : 1600603927729,
+        "duration" : 387
+      }
+    } ]
+  },
+  "fafcead9ce2ab86e064a81b9e38f091e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d868d440c347c6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603923057,
+        "stop" : 1600603925037,
+        "duration" : 1980
+      }
+    } ]
+  },
+  "f0c3eda44058cf119bd6c55e650f9f07" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c982a5c41a217098",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603958722,
+        "stop" : 1600603958918,
+        "duration" : 196
+      }
+    } ]
+  },
+  "23acd0bc3b87616de47849179fb3bc8e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edc86be51a3fea00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603941874,
+        "stop" : 1600603942064,
+        "duration" : 190
+      }
+    } ]
+  },
+  "d4c8df3863303800437ac49e3065ecc1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "846f1c3e163ef969",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603927745,
+        "stop" : 1600603928121,
+        "duration" : 376
+      }
+    } ]
+  },
+  "fe092dc9a9d7eb5d1a799143f7e2fb2c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ac50d5233ac015f1",
+      "status" : "broken",
+      "statusDetails" : "IndexError: list index out of range",
+      "time" : {
+        "start" : 1600603943553,
+        "stop" : 1600603943602,
+        "duration" : 49
+      }
+    } ]
+  },
+  "86f1d7ba2342690d0bf2940ac70ffeb1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b2793202e5d7bf6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603956920,
+        "stop" : 1600603957357,
+        "duration" : 437
+      }
+    } ]
+  },
+  "2fad2ad1c3cdc32824d3bc10dc2d442d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92f9acd5d9c743fd",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '数字必须大于0' == '请输入正整数'\n  - 请输入正整数\n  + 数字必须大于0",
+      "time" : {
+        "start" : 1600603942719,
+        "stop" : 1600603942898,
+        "duration" : 179
+      }
+    } ]
+  },
+  "fa26d583f9c1846b8b9ed757df40f55d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9fcaa9f4e6c07a60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603925412,
+        "stop" : 1600603925784,
+        "duration" : 372
+      }
+    } ]
+  },
+  "a5c2be41e8fcd0ab6413d0b6505576dd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d7b5a43fd12175b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603931113,
+        "stop" : 1600603935362,
+        "duration" : 4249
+      }
+    } ]
+  },
+  "62735b30dbb2005119d3c727325e7311" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a84ce8c748c33b5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603935776,
+        "stop" : 1600603935966,
+        "duration" : 190
+      }
+    } ]
+  },
+  "fdc2349a0cc3586e0236ff9794e5a693" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "34fb8d549f4c3483",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '不能为空' == '请输入正整数'\n  - 请输入正整数\n  + 不能为空",
+      "time" : {
+        "start" : 1600603955437,
+        "stop" : 1600603955634,
+        "duration" : 197
+      }
+    } ]
+  },
+  "abda4ede73ec1e028c5b95cbb5e21c16" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f7b47c4341dafadd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603925792,
+        "stop" : 1600603926159,
+        "duration" : 367
+      }
+    } ]
+  },
+  "57c84cd5b2c67cab4ad2ea9914689a3f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a969acfdc1dd9c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603956509,
+        "stop" : 1600603956713,
+        "duration" : 204
+      }
+    } ]
+  },
+  "d4ccf7f16f79d30e27813bb269561e6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc7530cc452102f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603959310,
+        "stop" : 1600603959492,
+        "duration" : 182
+      }
+    } ]
+  },
+  "15be46d3b95cbe356471fa29648b3405" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c53937ff933c1eac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603939383,
+        "stop" : 1600603939585,
+        "duration" : 202
+      }
+    } ]
+  },
+  "1a0141b75265506737d9a1e09fcd5852" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff7b8a65626764a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603959914,
+        "stop" : 1600603960311,
+        "duration" : 397
+      }
+    } ]
+  },
+  "bebd038baa49473a503368577126d009" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b014a87c05556537",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0 != 0\n +  where 0 = len([])",
+      "time" : {
+        "start" : 1600603957369,
+        "stop" : 1600603957545,
+        "duration" : 176
+      }
+    } ]
+  },
+  "a83b15bab130e92e39783cf59e272acf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d8e0f8e073629b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603920060,
+        "stop" : 1600603921943,
+        "duration" : 1883
+      }
+    } ]
+  },
+  "746dbfec44cb7689e9616837b383a988" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b424baa2555fd1d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603941486,
+        "stop" : 1600603941667,
+        "duration" : 181
+      }
+    } ]
+  },
+  "2940a176f84d3f8c38cd62c1e547fbeb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "17c76d6af0983f99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603929552,
+        "stop" : 1600603929730,
+        "duration" : 178
+      }
+    } ]
+  },
+  "c840f42573acdee0f8e869b46453862f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23eadde1ceadba08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603926563,
+        "stop" : 1600603926914,
+        "duration" : 351
+      }
+    } ]
+  },
+  "842d82e1ef95526e367de9fbb42c75aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f38a5df2ec1f7ebb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603955920,
+        "stop" : 1600603956091,
+        "duration" : 171
+      }
+    } ]
+  },
+  "bb30b8e90588fb7e03ba36834ac3d6a2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d2cc690877245e1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603941083,
+        "stop" : 1600603941286,
+        "duration" : 203
+      }
+    } ]
+  },
+  "a73bc1f957e4392d17a511fb4c2690f0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b61462cfc43f48bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603952203,
+        "stop" : 1600603954546,
+        "duration" : 2343
+      }
+    } ]
+  },
+  "63f12ba5ca3fc3adc18e91b57c65770a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b0200bac67ea05e0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 401 == 200",
+      "time" : {
+        "start" : 1600603954556,
+        "stop" : 1600603954741,
+        "duration" : 185
+      }
+    } ]
+  },
+  "9dbfc6c606fdaa48bc606df1cdc20dd3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76a952e86249c561",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603939592,
+        "stop" : 1600603939770,
+        "duration" : 178
+      }
+    } ]
+  },
+  "3e50f4e7cacf38b1cf32b90593e8fe21" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60717dcdbae6cc52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603941673,
+        "stop" : 1600603941867,
+        "duration" : 194
+      }
+    } ]
+  },
+  "37abe673656a2f22bbb36dc25da7173a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15a924fc624cffe9",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '请先登录后再操作！' == '请输入正整数'\n  - 请输入正整数\n  + 请先登录后再操作！",
+      "time" : {
+        "start" : 1600603939996,
+        "stop" : 1600603940173,
+        "duration" : 177
+      }
+    } ]
+  },
+  "6e0aa4057a8ca8b420ce9888bd8a73ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30d2095f0315f5f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603938982,
+        "stop" : 1600603939174,
+        "duration" : 192
+      }
+    } ]
+  },
+  "fa017aa43d03bf0cb29d5d6cb1347874" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "575694a969371b86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603937379,
+        "stop" : 1600603938538,
+        "duration" : 1159
+      }
+    } ]
+  },
+  "db0507d3e4cd4c7cf872082d94514dd8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9458911deae047a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '请先登录后再操作！' == '请输入正整数'\n  - 请输入正整数\n  + 请先登录后再操作！",
+      "time" : {
+        "start" : 1600603940185,
+        "stop" : 1600603940378,
+        "duration" : 193
+      }
+    } ]
+  },
+  "7af6c50708c3f9e226f740ffc96afd16" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "caa312d98efafc0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603929737,
+        "stop" : 1600603929910,
+        "duration" : 173
+      }
+    } ]
+  },
+  "53b9b35a0c87fc4ebd4dfde6047300b0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4252a117e3cc8a3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '【a】应该是正整数才行！' == '请输入正整数'\n  - 请输入正整数\n  + 【a】应该是正整数才行！",
+      "time" : {
+        "start" : 1600603942911,
+        "stop" : 1600603943104,
+        "duration" : 193
+      }
+    } ]
+  },
+  "ec6502263b4a0c6b12ad459df6b61621" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a735e54366f1aa44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603929352,
+        "stop" : 1600603929535,
+        "duration" : 183
+      }
+    } ]
+  },
+  "bdc683f00da01d74c73fd0aa771ef581" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "994c2ecf7f8db31b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603951537,
+        "stop" : 1600603951761,
+        "duration" : 224
+      }
+    } ]
+  },
+  "ca2f094438b973b14ee54294d4f1712d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "680cf8a0d1990bb2",
+      "status" : "broken",
+      "statusDetails" : "IndexError: list index out of range",
+      "time" : {
+        "start" : 1600603955867,
+        "stop" : 1600603955901,
+        "duration" : 34
+      }
+    } ]
+  },
+  "08f54297d2cb5cbbbf46c911b37807cf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "99dfe44cd2f02ccb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603918182,
+        "stop" : 1600603920050,
+        "duration" : 1868
+      }
+    } ]
+  },
+  "c409fb1d260705a1ac2161a6fd0f1fd0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1161bd94f530cfdb",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 401 == 200",
+      "time" : {
+        "start" : 1600603930314,
+        "stop" : 1600603930504,
+        "duration" : 190
+      }
+    } ]
+  },
+  "2b852e6ade06bafc18a69a297fd4b59c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b787ecb7a43064b1",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '【a】应该是正整数才行！' == '请输入正整数'\n  - 请输入正整数\n  + 【a】应该是正整数才行！",
+      "time" : {
+        "start" : 1600603958009,
+        "stop" : 1600603958214,
+        "duration" : 205
+      }
+    } ]
+  },
+  "011489de87637ffba5d4aec4d3e5d24a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7651b8fc1a00538a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '数字必须大于0' == '请输入正整数'\n  - 请输入正整数\n  + 数字必须大于0",
+      "time" : {
+        "start" : 1600603957816,
+        "stop" : 1600603957991,
+        "duration" : 175
+      }
+    } ]
+  },
+  "0f41e3b2e6753920d76ad0f798710e28" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "99499c48974a2944",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603956098,
+        "stop" : 1600603956280,
+        "duration" : 182
+      }
+    } ]
+  },
+  "a4c28f785d2a1dcbd238f65df76bd918" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "181ab994efdc67da",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '请先登录后再操作！' == '请输入正整数'\n  - 请输入正整数\n  + 请先登录后再操作！",
+      "time" : {
+        "start" : 1600603940389,
+        "stop" : 1600603940570,
+        "duration" : 181
+      }
+    } ]
+  },
+  "3bc3c845f61f790e8847efff9aa7fff4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "abd4947da875ba2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603929160,
+        "stop" : 1600603929346,
+        "duration" : 186
+      }
+    } ]
+  },
+  "ee9b20535cebe602946ac89371b1621e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3f01eb5fea693ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603926166,
+        "stop" : 1600603926547,
+        "duration" : 381
+      }
+    } ]
+  },
+  "b767dead718e3a63326dfe017bf35840" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b890e937cc01f6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603959498,
+        "stop" : 1600603959677,
+        "duration" : 179
+      }
+    } ]
+  },
+  "44835b76052662dfe654a26c0c40fd11" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1515993439afc2b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603958924,
+        "stop" : 1600603959108,
+        "duration" : 184
+      }
+    } ]
+  },
+  "e5456ec1888c24a4ca60e04cbf15fa23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c99711111750557",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603925046,
+        "stop" : 1600603925406,
+        "duration" : 360
+      }
+    } ]
+  },
+  "a666ce9a501505a285551dba924e904d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3fa3af5c014db797",
+      "status" : "broken",
+      "statusDetails" : "IndexError: list index out of range",
+      "time" : {
+        "start" : 1600603958657,
+        "stop" : 1600603958700,
+        "duration" : 43
+      }
+    } ]
+  },
+  "06fdea245abbf5529e03cffe994b8277" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ab3da4705bd88a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603928140,
+        "stop" : 1600603928327,
+        "duration" : 187
+      }
+    } ]
+  },
+  "4942318be9b840835502bfb3467f1790" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67779ed47e02ee0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603921960,
+        "stop" : 1600603923048,
+        "duration" : 1088
+      }
+    } ]
+  },
+  "8246417eb16ca7c3e4af8d277ac23e42" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e24cfd5851741e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603929916,
+        "stop" : 1600603930097,
+        "duration" : 181
+      }
+    } ]
+  },
+  "bd8729cb0e3ab89026858f2af3667759" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f0fdee7404208221",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603946445,
+        "stop" : 1600603951529,
+        "duration" : 5084
+      }
+    } ]
+  },
+  "246e5a790d9b92142e54aedd789d611b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4d520272d484d63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600603930848,
+        "stop" : 1600603931107,
+        "duration" : 259
+      }
+    } ]
+  },
+  "05d378fde0b54088560ee95072e9a781" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "94899faaf5a189c6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '请先登录后再操作！' == '请输入正整数'\n  - 请输入正整数\n  + 请先登录后再操作！",
+      "time" : {
+        "start" : 1600603940590,
+        "stop" : 1600603940800,
+        "duration" : 210
+      }
+    } ]
+  }
+}

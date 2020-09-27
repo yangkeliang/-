@@ -1,0 +1,53 @@
+{
+  "uid" : "abd4947da875ba2f",
+  "name" : "test_06_regist_fail_wrongmail",
+  "fullName" : "case.登录注册相关.test_01_regist#test_06_regist_fail_wrongmail",
+  "historyId" : "3bc3c845f61f790e8847efff9aa7fff4",
+  "time" : {
+    "start" : 1600603929160,
+    "stop" : 1600603929346,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.登录注册相关"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_regist"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GUR25VOE"
+  }, {
+    "name" : "thread",
+    "value" : "7116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.登录注册相关.test_01_regist"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "abd4947da875ba2f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "e28fdfa9c29c4ddb",
+  "name" : "test_04_regist_fail_longname",
+  "fullName" : "case.登录注册相关.test_01_regist#test_04_regist_fail_longname",
+  "historyId" : "4a0b84ddc354a3d7af7b3030743f6134",
+  "time" : {
+    "start" : 1600603928779,
+    "stop" : 1600603928965,
+    "duration" : 186
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.登录注册相关"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_regist"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GUR25VOE"
+  }, {
+    "name" : "thread",
+    "value" : "7116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.登录注册相关.test_01_regist"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e28fdfa9c29c4ddb.json",
+  "parameterValues" : [ ]
+}

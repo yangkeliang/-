@@ -1,0 +1,59 @@
+{
+  "uid" : "c69e7ee13b6cdbf7",
+  "name" : "test_01_getcoursedetail_success",
+  "fullName" : "case.获取接口.test_05_getcoursedetail#test_01_getcoursedetail_success",
+  "historyId" : "0ce8bf8dd6d37068fbcaa0676a4136ff",
+  "time" : {
+    "start" : 1600603939779,
+    "stop" : 1600603939974,
+    "duration" : 195
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 401 == 200",
+  "statusTrace" : ">   ???\nE   assert 401 == 200\n\nD:\\Python\\project\\测谈网接口自动化\\case\\获取接口\\test_05_getcoursedetail.py:12: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.获取接口"
+  }, {
+    "name" : "suite",
+    "value" : "test_05_getcoursedetail"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GUR25VOE"
+  }, {
+    "name" : "thread",
+    "value" : "7116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.获取接口.test_05_getcoursedetail"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c69e7ee13b6cdbf7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "f38a5df2ec1f7ebb",
+  "name" : "test_02_getinspire_noparameter",
+  "fullName" : "case.获取接口.test_10_getinspire#test_02_getinspire_noparameter",
+  "historyId" : "842d82e1ef95526e367de9fbb42c75aa",
+  "time" : {
+    "start" : 1600603955920,
+    "stop" : 1600603956091,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.获取接口"
+  }, {
+    "name" : "suite",
+    "value" : "test_10_getinspire"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GUR25VOE"
+  }, {
+    "name" : "thread",
+    "value" : "7116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.获取接口.test_10_getinspire"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f38a5df2ec1f7ebb.json",
+  "parameterValues" : [ ]
+}

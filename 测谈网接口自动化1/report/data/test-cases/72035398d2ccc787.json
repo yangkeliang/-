@@ -1,0 +1,59 @@
+{
+  "uid" : "72035398d2ccc787",
+  "name" : "test_06_getcoursedetail_fail_null",
+  "fullName" : "case.获取接口.test_05_getcoursedetail#test_06_getcoursedetail_fail_null",
+  "historyId" : "f4f1207f557a428dbbd719cc82609969",
+  "time" : {
+    "start" : 1600603940822,
+    "stop" : 1600603941011,
+    "duration" : 189
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '请先登录后再操作！' == '请输入正整数'\n  - 请输入正整数\n  + 请先登录后再操作！",
+  "statusTrace" : ">   ???\nE   AssertionError: assert '请先登录后再操作！' == '请输入正整数'\nE     - 请输入正整数\nE     + 请先登录后再操作！\n\nD:\\Python\\project\\测谈网接口自动化\\case\\获取接口\\test_05_getcoursedetail.py:58: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.获取接口"
+  }, {
+    "name" : "suite",
+    "value" : "test_05_getcoursedetail"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GUR25VOE"
+  }, {
+    "name" : "thread",
+    "value" : "7116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.获取接口.test_05_getcoursedetail"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "72035398d2ccc787.json",
+  "parameterValues" : [ ]
+}

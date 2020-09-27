@@ -1,0 +1,59 @@
+{
+  "uid" : "b4252a117e3cc8a3",
+  "name" : "test_04_getquestiondetail_fail_zifu",
+  "fullName" : "case.获取接口.test_07_getquestiondetail#test_04_getquestiondetail_fail_zifu",
+  "historyId" : "53b9b35a0c87fc4ebd4dfde6047300b0",
+  "time" : {
+    "start" : 1600603942911,
+    "stop" : 1600603943104,
+    "duration" : 193
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '【a】应该是正整数才行！' == '请输入正整数'\n  - 请输入正整数\n  + 【a】应该是正整数才行！",
+  "statusTrace" : ">   ???\nE   AssertionError: assert '【a】应该是正整数才行！' == '请输入正整数'\nE     - 请输入正整数\nE     + 【a】应该是正整数才行！\n\nD:\\Python\\project\\测谈网接口自动化\\case\\获取接口\\test_07_getquestiondetail.py:42: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.获取接口"
+  }, {
+    "name" : "suite",
+    "value" : "test_07_getquestiondetail"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GUR25VOE"
+  }, {
+    "name" : "thread",
+    "value" : "7116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.获取接口.test_07_getquestiondetail"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b4252a117e3cc8a3.json",
+  "parameterValues" : [ ]
+}

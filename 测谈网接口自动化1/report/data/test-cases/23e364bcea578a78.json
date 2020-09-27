@@ -1,0 +1,53 @@
+{
+  "uid" : "23e364bcea578a78",
+  "name" : "test_02_regist_fail_wrongphone",
+  "fullName" : "case.登录注册相关.test_01_regist#test_02_regist_fail_wrongphone",
+  "historyId" : "f93f253844afd7aa829b8840b1ab10b6",
+  "time" : {
+    "start" : 1600603928337,
+    "stop" : 1600603928549,
+    "duration" : 212
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.登录注册相关"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_regist"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GUR25VOE"
+  }, {
+    "name" : "thread",
+    "value" : "7116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.登录注册相关.test_01_regist"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23e364bcea578a78.json",
+  "parameterValues" : [ ]
+}

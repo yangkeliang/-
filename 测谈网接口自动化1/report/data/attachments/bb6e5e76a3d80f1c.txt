@@ -1,0 +1,130 @@
+{
+  "data": {
+    "contentlist": [
+      {
+        "collections": 0, 
+        "content": "这是用户8655440发表的灵感", 
+        "goods": 0, 
+        "headpic": "headimg.jpg", 
+        "id": 18885, 
+        "nickname": "用户8655440", 
+        "times": "2020.09.20", 
+        "uid": 1333407286, 
+        "userinfo": "没有签名最有个性", 
+        "ximg": "ximg.jpg"
+      }, 
+      {
+        "collections": 0, 
+        "content": "这是用户8655440修改的灵感64", 
+        "goods": 0, 
+        "headpic": "headimg.jpg", 
+        "id": 18883, 
+        "nickname": "用户8655440", 
+        "times": "2020.09.20", 
+        "uid": 1333407286, 
+        "userinfo": "没有签名最有个性", 
+        "ximg": "ximg.jpg"
+      }, 
+      {
+        "collections": 0, 
+        "content": "这是用户8655440发表的灵感", 
+        "goods": 0, 
+        "headpic": "headimg.jpg", 
+        "id": 18881, 
+        "nickname": "用户8655440", 
+        "times": "2020.09.20", 
+        "uid": 1333407286, 
+        "userinfo": "没有签名最有个性", 
+        "ximg": "ximg.jpg"
+      }, 
+      {
+        "collections": 0, 
+        "content": "这是用户8655440发表的灵感", 
+        "goods": 0, 
+        "headpic": "headimg.jpg", 
+        "id": 18880, 
+        "nickname": "用户8655440", 
+        "times": "2020.09.20", 
+        "uid": 1333407286, 
+        "userinfo": "没有签名最有个性", 
+        "ximg": "ximg.jpg"
+      }, 
+      {
+        "collections": 0, 
+        "content": "我能吃四碗", 
+        "goods": 0, 
+        "headpic": "headimg.jpg", 
+        "id": 18876, 
+        "nickname": "用户1532666", 
+        "times": "2020.09.20", 
+        "uid": 1333407288, 
+        "userinfo": "没有签名最有个性", 
+        "ximg": "dsfsdf.jp"
+      }, 
+      {
+        "collections": 0, 
+        "content": "我能吃四碗", 
+        "goods": 0, 
+        "headpic": "headimg.jpg", 
+        "id": 18875, 
+        "nickname": "用户1532666", 
+        "times": "2020.09.20", 
+        "uid": 1333407288, 
+        "userinfo": "没有签名最有个性", 
+        "ximg": "dsfsdf.jp"
+      }, 
+      {
+        "collections": 0, 
+        "content": "这是用户8655440修改的灵感64", 
+        "goods": 0, 
+        "headpic": "headimg.jpg", 
+        "id": 18874, 
+        "nickname": "用户8655440", 
+        "times": "2020.09.20", 
+        "uid": 1333407286, 
+        "userinfo": "没有签名最有个性", 
+        "ximg": "ximg.jpg"
+      }, 
+      {
+        "collections": 0, 
+        "content": "我能吃三碗饭", 
+        "goods": 0, 
+        "headpic": "headimg.jpg", 
+        "id": 18870, 
+        "nickname": "用户1532666", 
+        "times": "2020.09.20", 
+        "uid": 1333407288, 
+        "userinfo": "没有签名最有个性", 
+        "ximg": "dsfsdf.jp"
+      }, 
+      {
+        "collections": 0, 
+        "content": "我能吃三碗饭", 
+        "goods": 0, 
+        "headpic": "headimg.jpg", 
+        "id": 18867, 
+        "nickname": "用户1532666", 
+        "times": "2020.09.20", 
+        "uid": 1333407288, 
+        "userinfo": "没有签名最有个性", 
+        "ximg": "dsfsdf.jp"
+      }, 
+      {
+        "collections": 0, 
+        "content": "我能吃三碗饭", 
+        "goods": 0, 
+        "headpic": "headimg.jpg", 
+        "id": 18864, 
+        "nickname": "用户1532666", 
+        "times": "2020.09.20", 
+        "uid": 1333407288, 
+        "userinfo": "没有签名最有个性", 
+        "ximg": "dsfsdf.jp"
+      }
+    ], 
+    "counts": 8602
+  }, 
+  "msg": "操作成功！", 
+  "status": 200
+}
+

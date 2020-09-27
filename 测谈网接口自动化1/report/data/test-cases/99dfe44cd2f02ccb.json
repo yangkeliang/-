@@ -1,0 +1,69 @@
+{
+  "uid" : "99dfe44cd2f02ccb",
+  "name" : "test_01_getcomment_success_type0",
+  "fullName" : "case.其他post相关.test_01_getcomment#test_01_getcomment_success_type0",
+  "historyId" : "08f54297d2cb5cbbbf46c911b37807cf",
+  "time" : {
+    "start" : 1600603918182,
+    "stop" : 1600603920050,
+    "duration" : 1868
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7ddfac1bc8d462b2",
+      "name" : "stdout",
+      "source" : "7ddfac1bc8d462b2.txt",
+      "type" : "text/plain",
+      "size" : 2565
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case.其他post相关"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_getcomment"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GUR25VOE"
+  }, {
+    "name" : "thread",
+    "value" : "7116-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.其他post相关.test_01_getcomment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99dfe44cd2f02ccb.json",
+  "parameterValues" : [ ]
+}

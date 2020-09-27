@@ -3,7 +3,7 @@ import os,sys
 sys.path.append(os.getcwd())
 
 def query(sql):
-    # 固定的方法
+    '''用于查询sql语句的返回内容'''
     # db = pymysql.connect(host='192.144.148.91', user='ljtest', password="Lj123456+", db='ljtestdb')
     db = pymysql.connect(host='118.24.105.78', user='root', password="1qaz!QAZ123***123", db='ljtestdb')
     # 获取查询窗口：游标

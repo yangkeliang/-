@@ -4,56 +4,52 @@ import os,sys
 sys.path.append(os.getcwd())
 import utils.exceltools as extool
 import utils.dbtools as db
-def test_01_getarticle_success():
-    e_data = extool.read_excel("data/测谈网接口测试用例.xlsx", "获取热门文章")
-    url = e_data[0][2]
-    head = eval(e_data[0][5])
-    res = requests.get(url=url,headers=head)#head中规定使用json，因此用json而不是data
+import utils.decorate as de
+
+@de.geturl("获取热门文章",0)
+@de.prt
+def test_01_getarticle_success(res,url,head):
     assert len(res.json()["data"]["contentlist"]) == 10#返回10条
     assert res.json()["status"] == 200#状态码
     assert res.status_code == 200#结果码
+    return res
 
-def test_02_getarticle_noparameter():
-    e_data = extool.read_excel("data/测谈网接口测试用例.xlsx", "获取热门文章")
-    url = e_data[1][2]
-    head = eval(e_data[1][5])
-    res = requests.get(url=url,headers=head)#head中规定使用json，因此用json而不是data
+@de.geturl("获取热门文章",1)
+@de.prt
+def test_02_getarticle_noparameter(res,url,head):
     assert len(res.json()["data"]) == 4 
     assert res.json()["status"] == 200#状态码
     assert res.status_code == 200#结果码
+    return res
 
-def test_03_getarticle_paraxiaoshu():
-    e_data = extool.read_excel("data/测谈网接口测试用例.xlsx", "获取热门文章")
-    url = e_data[2][2]
-    head = eval(e_data[2][5])
-    res = requests.get(url=url,headers=head)#head中规定使用json，因此用json而不是data
+@de.geturl("获取热门文章",2)
+@de.prt
+def test_03_getarticle_paraxiaoshu(res,url,head):
     assert res.json()["msg"] == "【{}】应该是正整数才行！".format(url.split("=")[1]) 
     assert res.json()["status"] == 401#状态码
     assert res.status_code == 200#结果码
+    return res
 
-def test_04_getarticle_parachar():
-    e_data = extool.read_excel("data/测谈网接口测试用例.xlsx", "获取热门文章")
-    url = e_data[3][2]
-    head = eval(e_data[3][5])
-    res = requests.get(url=url,headers=head)#head中规定使用json，因此用json而不是data
+@de.geturl("获取热门文章",3)
+@de.prt
+def test_04_getarticle_parachar(res,url,head):
     assert res.json()["msg"] == "【{}】应该是正整数才行！".format(url.split("=")[1]) 
     assert res.json()["status"] == 401#状态码
     assert res.status_code == 200#结果码
+    return res
 
-def test_05_getarticle_parafushu():
-    e_data = extool.read_excel("data/测谈网接口测试用例.xlsx", "获取热门文章")
-    url = e_data[4][2]
-    head = eval(e_data[4][5])
-    res = requests.get(url=url,headers=head)#head中规定使用json，因此用json而不是data
+@de.geturl("获取热门文章",4)
+@de.prt
+def test_05_getarticle_parafushu(res,url,head):
     assert res.json()["msg"] == "数字必须大于0" 
     assert res.json()["status"] == 401#状态码
     assert res.status_code == 200#结果码
+    return res
 
-def test_06_getarticle_paranotexist():
-    e_data = extool.read_excel("data/测谈网接口测试用例.xlsx", "获取热门文章")
-    url = e_data[5][2]
-    head = eval(e_data[5][5])
-    res = requests.get(url=url,headers=head)#head中规定使用json，因此用json而不是data
+@de.geturl("获取热门文章",5)
+@de.prt
+def test_06_getarticle_paranotexist(res,url,head):
     assert res.json()["msg"] == "页码超出范围" 
     assert res.json()["status"] == 401#状态码
     assert res.status_code == 200#结果码
+    return res
