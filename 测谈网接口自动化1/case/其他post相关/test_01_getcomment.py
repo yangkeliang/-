@@ -6,8 +6,9 @@ import utils.exceltools as extool
 import utils.dbtools as db
 import utils.decorate as de
        
-@de.posturl("获取评论列表",0)
+
 @de.prt
+@de.posturl("获取评论列表",0)
 def test_01_getcomment_success_type0(res,url,head,body):
     #判断数据量是否相等
     sqlcount = "SELECT count(*) FROM t_user_comments c \
@@ -33,8 +34,9 @@ def test_01_getcomment_success_type0(res,url,head,body):
     assert num ==0 or db.query(sql)[numle-1][0] == res.json()["data"]["contentlist"][numle-1]["comment"]#查到的最后一个元素是否相同
     return res
 
-@de.posturl("获取评论列表",1)
+
 @de.prt
+@de.posturl("获取评论列表",1)
 def test_01_getcomment_success_type1(res,url,head,body):
     #判断数据量是否相等
     sqlcount = "SELECT count(*) FROM t_user_comments c \
@@ -60,8 +62,9 @@ def test_01_getcomment_success_type1(res,url,head,body):
     assert num == 10 or db.query(sql)[numle-1][0] == res.json()["data"]["contentlist"][numle-1]["comment"]#查到的最后一个元素是否相同
     return res
 
-@de.posturl("获取评论列表",2)
+
 @de.prt
+@de.posturl("获取评论列表",2)
 def test_01_getcomment_success_type2(res,url,head,body):
     sqlcount = "SELECT count(*) FROM t_user_comments c \
            join t_user u on c.uid=u.id \
@@ -86,8 +89,9 @@ def test_01_getcomment_success_type2(res,url,head,body):
     assert num == 0 or db.query(sql)[numle-1][0] == res.json()["data"]["contentlist"][numle-1]["comment"] #查到的最后一个元素是否相同
     return res
 
-@de.posturl("获取评论列表",3)
+
 @de.prt
+@de.posturl("获取评论列表",3)
 def test_01_getcomment_success_type3(res,url,head,body):
     #判断数据量是否相等
     sqlcount = "SELECT count(*) FROM t_user_comments c \
@@ -113,64 +117,72 @@ def test_01_getcomment_success_type3(res,url,head,body):
     assert num == 0 or db.query(sql)[numle-1][0] == res.json()["data"]["contentlist"][numle-1]["comment"] #查到的最后一个元素是否相同
     return res
 
-@de.posturl("获取评论列表",4)
+
 @de.prt
+@de.posturl("获取评论列表",4)
 def test_01_getcomment_fail_typenotexist(res,url,head,body):
     assert res.status_code == 200#状态码
     assert res.json()["status"] == 401#结果码
     assert res.json()["msg"] == "ctypectype不在范围内，0教程1提问2灵感3心得体会"#提示信息
     return res
 
-@de.posturl("获取评论列表",5)
+
 @de.prt
+@de.posturl("获取评论列表",5)
 def test_01_getcomment_fail_fidnotint(res,url,head,body):
     assert res.status_code == 200#状态码
     assert res.json()["status"] == 401#结果码
     assert res.json()["msg"] == "fid【{}】应该是正整数才行！".format(body["fid"])#提示信息
     return res
 
-@de.posturl("获取评论列表",6)
+
 @de.prt
+@de.posturl("获取评论列表",6)
 def test_01_getcomment_fail_fidnull(res,url,head,body):
     assert res.json()["status"] == 401#结果码
     assert res.status_code == 200#状态码
     assert res.json()["msg"] == "fid不能为空"#提示信息
     return res
 
-@de.posturl("获取评论列表",7)
+
 @de.prt
+@de.posturl("获取评论列表",7)
 def test_01_getcomment_fail_ctypenull(res,url,head,body):
     assert res.json()["status"] == 401#结果码
     assert res.status_code == 200#状态码
     assert res.json()["msg"] == "ctypectype不在范围内，0教程1提问2灵感3心得体会"#提示信息
     return res
 
-@de.posturl("获取评论列表",8)
+
 @de.prt
+@de.posturl("获取评论列表",8)
 def test_01_getcomment_fail_pagenull(res,url,head,body):
     assert res.json()["status"] == 401#结果码
     assert res.status_code == 200#状态码
     assert res.json()["msg"] == "pagenum不能为空"#提示信息
-    return res
+    return res     
 
-@de.posturl("获取评论列表",9)
+
 @de.prt
+@de.posturl("获取评论列表",9)
 def test_01_getcomment_fail_pagetoobig(res,url,head,body):
     assert res.json()["status"] == 401#结果码
     assert res.status_code == 200#状态码
     assert res.json()["msg"] == "页码超出范围"#提示信息
     return res
 
-@de.posturl("获取评论列表",10)
+
 @de.prt
+@de.posturl("获取评论列表",10)
 def test_01_getcomment_fail_pagexiaoshu(res,url,head,body):
     assert res.json()["status"] == 401#结果码
     assert res.status_code == 200#状态码
     assert res.json()["msg"] == "pagenum【{}】应该是正整数才行！".format(body["pagenum"])#提示信息
     return res
 
-@de.posturl("获取评论列表",11)
+
 @de.prt
+@de.posturl("获取评论列表",11)
 def test_01_getcomment_fail_pagechar(res,url,head,body):
     assert res.json()["status"] == 401#结果码
     assert res.status_code == 200#状态码
